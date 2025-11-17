@@ -1,4 +1,4 @@
-# CS773 Assignment 1
+# Microarchitectural Covert Channels
 
 ## Submission Details
 Samar Perwez - 22B3913  
